@@ -170,15 +170,11 @@ export function Footer() {
                 <ul className="space-y-2 text-gray-400">
                   <li className="flex justify-between">
                     <span>ორშაბათი - პარასკევი</span>
-                    <span>09:00 - 18:00</span>
+                    <span>10:00 - 22:00</span>
                   </li>
                   <li className="flex justify-between">
-                    <span>შაბათი</span>
-                    <span>10:00 - 15:00</span>
-                  </li>
-                  <li className="flex justify-between">
-                    <span>კვირა</span>
-                    <span className="text-gray-400">დასვენების დღე</span>
+                    <span>შაბათი-კვირა</span>
+                    <span>დასვენების დღე</span>
                   </li>
                 </ul>
               </div>
@@ -193,7 +189,7 @@ export function Footer() {
                 დაცულია.
               </p>
               <p className="text-gray-600 text-xs mt-1">
-                დამზადებულია საქართველოში
+                დამზადებულია ZGLMedia-ს მიერ
               </p>
             </div>
           </div>
