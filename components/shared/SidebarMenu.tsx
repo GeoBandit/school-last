@@ -454,7 +454,7 @@ export default function ExamApp() {
                   )}
                 </div>
                 <Link
-                  href="https://avtoskola-varketilshi.ge/%e1%83%a1%e1%83%90%e1%83%92%e1%83%96%e1%83%90%e1%83%9d-%e1%83%9c%e1%83%98%e1%83%a8%e1%83%9c%e1%83%94%e1%83%91%e1%83%98/"
+                  href="https://nishnebi.avtoskola-varketilshi.ge/road-signs"
                   className={cn(
                     "px-4 py-2 font-bold rounded-lg transition gap-2",
                     isActive("/road-signs")
