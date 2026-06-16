@@ -801,20 +801,20 @@ export default function ExamApp() {
                                   alt="question image"
                                   width={
                                     item.image ===
-                                    "https://www.starti.ge/exam/shss.png"
+                                    "https://starti.ge/img/default-ticket.png"
                                       ? 200
                                       : 800
                                   }
                                   height={
                                     item.image ===
-                                    "https://www.starti.ge/exam/shss.png"
+                                    "https://starti.ge/img/default-ticket.png"
                                       ? 100
                                       : 800
                                   }
                                   className={clsx(
                                     "border-none rounded-md border-gray-700 object-contain w-full",
                                     item.image ===
-                                      "https://www.starti.ge/exam/shss.png"
+                                      "https://starti.ge/img/default-ticket.png"
                                       ? "max-w-[200px] h-[200px] mx-auto"
                                       : "max-w-[600px] sm:max-w-[900px] lg:max-w-[1100px] h-auto"
                                   )}
@@ -970,3 +970,4 @@ export default function ExamApp() {
     </>
   );
 }
+
