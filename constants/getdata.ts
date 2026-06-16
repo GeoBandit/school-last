@@ -53,7 +53,7 @@ export const vehicleCategories: VehicleCategory[] = [
   {
     id: "B",
     label: "B, B1",
-    icon: "https://www.starti.ge/exam/svgicons/BB1.svg",
+    icon: "https://starti.ge/img/svgCats/categories/b-b1.svg",
     gadjet: "ავტომობილი",
     categoryMappings: {
       "1. მძღოლი, მგზავრი და ქვეითი": {
@@ -19727,7 +19727,7 @@ export const vehicleCategories: VehicleCategory[] = [
   {
     id: "C",
     label: "C",
-    icon: "https://www.starti.ge/exam/svgicons/C.svg",
+    icon: "https://starti.ge/img/svgCats/categories/c.svg",
     gadjet: "სატვირთო",
     categoryMappings: {
       "1. მძღოლი, მგზავრი და ქვეითი": {
@@ -39516,7 +39516,7 @@ export const vehicleCategories: VehicleCategory[] = [
   {
     id: "D",
     label: "D",
-    icon: "https://www.starti.ge/exam/svgicons/D.svg",
+    icon: "https://starti.ge/img/svgCats/categories/d.svg",
     gadjet: "ავტობუსი",
     categoryMappings: {
       "1. მძღოლი, მგზავრი და ქვეითი": {
@@ -57315,7 +57315,7 @@ export const vehicleCategories: VehicleCategory[] = [
   {
     id: "T,S",
     label: "T,S",
-    icon: "https://www.starti.ge/exam/svgicons/TS.svg",
+    icon: "https://starti.ge/img/svgCats/categories/t-s.svg",
     gadjet: "ტრაქტორი",
     categoryMappings: {
       "1. მძღოლი, მგზავრი და ქვეითი": {
