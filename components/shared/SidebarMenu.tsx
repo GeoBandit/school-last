@@ -801,20 +801,20 @@ export default function ExamApp() {
                                   alt="question image"
                                   width={
                                     item.image ===
-                                    "https://image-tether-tool.lovable.app/__l5e/assets-v1/ca2999c3-63aa-4d60-b020-a1f8aff6dd85/backgroundIMG.webp"
+                                    "https://image-tether-tool.lovable.app/__l5e/assets-v1/b475d439-b61e-41ea-abd8-96349e36b73e/backgroundIMG.png"
                                       ? 200
                                       : 800
                                   }
                                   height={
                                     item.image ===
-                                    "https://image-tether-tool.lovable.app/__l5e/assets-v1/ca2999c3-63aa-4d60-b020-a1f8aff6dd85/backgroundIMG.webp"
+                                    "https://image-tether-tool.lovable.app/__l5e/assets-v1/b475d439-b61e-41ea-abd8-96349e36b73e/backgroundIMG.png"
                                       ? 100
                                       : 800
                                   }
                                   className={clsx(
                                     "border-none rounded-md border-gray-700 object-contain w-full",
                                     item.image ===
-                                      "https://image-tether-tool.lovable.app/__l5e/assets-v1/ca2999c3-63aa-4d60-b020-a1f8aff6dd85/backgroundIMG.webp"
+                                      "https://image-tether-tool.lovable.app/__l5e/assets-v1/b475d439-b61e-41ea-abd8-96349e36b73e/backgroundIMG.png"
                                       ? "max-w-[200px] h-[200px] mx-auto"
                                       : "max-w-[600px] sm:max-w-[900px] lg:max-w-[1100px] h-auto"
                                   )}
@@ -970,5 +970,6 @@ export default function ExamApp() {
     </>
   );
 }
+
 
 
