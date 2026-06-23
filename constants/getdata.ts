@@ -53,7 +53,7 @@ export const vehicleCategories: VehicleCategory[] = [
   {
     id: "B",
     label: "B, B1",
-    icon: "https://image-tether-tool.lovable.app/__l5e/assets-v1/ea41c4eb-fb88-4a02-9416-3557c61fbdb2/car-b-b1.webp",
+    icon: "https://image-tether-tool.lovable.app/__l5e/assets-v1/6ecc2af2-ebf3-4881-b845-551efe819c0e/car-b-b1.png",
     gadjet: "ავტომობილი",
     categoryMappings: {
       "1. მძღოლი, მგზავრი და ქვეითი": {
