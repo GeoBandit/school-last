@@ -53,7 +53,7 @@ export const vehicleCategories: VehicleCategory[] = [
   {
     id: "B",
     label: "B, B1",
-    icon: "https://starti.ge/img/svgCats/categories/b-b1.svg",
+    icon: "https://image-tether-tool.lovable.app/__l5e/assets-v1/ea41c4eb-fb88-4a02-9416-3557c61fbdb2/car-b-b1.webp",
     gadjet: "ავტომობილი",
     categoryMappings: {
       "1. მძღოლი, მგზავრი და ქვეითი": {
@@ -19727,7 +19727,7 @@ export const vehicleCategories: VehicleCategory[] = [
   {
     id: "C",
     label: "C",
-    icon: "https://starti.ge/img/svgCats/categories/c.svg",
+    icon: "https://image-tether-tool.lovable.app/__l5e/assets-v1/2efc7d35-1966-4610-8758-59855a7e9f23/truck-c.png",
     gadjet: "სატვირთო",
     categoryMappings: {
       "1. მძღოლი, მგზავრი და ქვეითი": {
@@ -39516,7 +39516,7 @@ export const vehicleCategories: VehicleCategory[] = [
   {
     id: "D",
     label: "D",
-    icon: "https://starti.ge/img/svgCats/categories/d.svg",
+    icon: "https://image-tether-tool.lovable.app/category/d",
     gadjet: "ავტობუსი",
     categoryMappings: {
       "1. მძღოლი, მგზავრი და ქვეითი": {
@@ -57315,7 +57315,7 @@ export const vehicleCategories: VehicleCategory[] = [
   {
     id: "T,S",
     label: "T,S",
-    icon: "https://starti.ge/img/svgCats/categories/t-s.svg",
+    icon: "https://image-tether-tool.lovable.app/__l5e/assets-v1/313ff559-3166-45cd-ba6d-c24ac844c31d/tractor-t-s.png",
     gadjet: "ტრაქტორი",
     categoryMappings: {
       "1. მძღოლი, მგზავრი და ქვეითი": {
