@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
+﻿/* eslint-disable @typescript-eslint/no-unused-vars */
 /* eslint-disable prefer-const */
 "use client";
 
@@ -801,20 +801,20 @@ export default function ExamApp() {
                                   alt="question image"
                                   width={
                                     item.image ===
-                                    "https://starti.ge/img/default-ticket.png"
+                                    "https://image-tether-tool.lovable.app/__l5e/assets-v1/ca2999c3-63aa-4d60-b020-a1f8aff6dd85/backgroundIMG.webp"
                                       ? 200
                                       : 800
                                   }
                                   height={
                                     item.image ===
-                                    "https://starti.ge/img/default-ticket.png"
+                                    "https://image-tether-tool.lovable.app/__l5e/assets-v1/ca2999c3-63aa-4d60-b020-a1f8aff6dd85/backgroundIMG.webp"
                                       ? 100
                                       : 800
                                   }
                                   className={clsx(
                                     "border-none rounded-md border-gray-700 object-contain w-full",
                                     item.image ===
-                                      "https://starti.ge/img/default-ticket.png"
+                                      "https://image-tether-tool.lovable.app/__l5e/assets-v1/ca2999c3-63aa-4d60-b020-a1f8aff6dd85/backgroundIMG.webp"
                                       ? "max-w-[200px] h-[200px] mx-auto"
                                       : "max-w-[600px] sm:max-w-[900px] lg:max-w-[1100px] h-auto"
                                   )}
@@ -970,4 +970,5 @@ export default function ExamApp() {
     </>
   );
 }
+
 
