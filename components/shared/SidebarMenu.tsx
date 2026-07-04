@@ -626,7 +626,7 @@ export default function ExamApp() {
                     alt={category.label}
                     width={60}
                     height={60}
-                    className="w-10 h-10 sm:w-20 sm:h-10"
+                    className="w-10 h-10 sm:w-20 sm:h-10 object-contain"
                   />
                   <span className="text-xs sm:text-sm font-medium mt-1">
                     {category.label}
