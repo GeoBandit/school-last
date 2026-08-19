@@ -16725,7 +16725,6 @@ export const vehicleCategories: VehicleCategory[] = [
               },
             ],
           },
-          =
           {
             _id: 831,
             gadjet: "ავტომობილი",
@@ -36117,8 +36116,6 @@ export const vehicleCategories: VehicleCategory[] = [
                 isCorrect: false,
               },
             ],
-          },
-         
           },
           {
             _id: 1070,
